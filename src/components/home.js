@@ -50,7 +50,7 @@ export default function Home() {
               <span className="highlight">React</span> and love to explore{" "}
               <span className="highlight">AI technologies</span>.
             </p>
-            <button className="contact-btn">Contact Me</button>
+            <button onclick="(()=>{window.location.href="#contact"})" className="contact-btn">Contact Me</button>
           </div>
           <div className="landing-image">
             <img src={image} alt="Kartik Kumawat" />
@@ -264,7 +264,7 @@ export default function Home() {
                 </p>
                 <div className="visit-btn">
                   <a
-                    href="https://example.com"
+                    href="https://kartikkumawat.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
