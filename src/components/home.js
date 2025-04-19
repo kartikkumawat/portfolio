@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import image from "./image.jpeg";
+import image from "./home.jpg";
 import image1 from "./image1.jpeg";
 import image2 from "./ap-website.png";
 import image3 from "./portfolio.png";
