@@ -50,7 +50,7 @@ export default function Home() {
               <span className="highlight">React</span> and love to explore{" "}
               <span className="highlight">AI technologies</span>.
             </p>
-            <button onclick={()=>{window.location.href="https://www.linkedin.com/in/kartik-kumawat-developer";}} className="contact-btn">Contact Me</button>
+            <button onClick={() => {window.location.href = "https://www.linkedin.com/in/kartik-kumawat-developer";}} className="contact-btn">Contact Me</button>
           </div>
           <div className="landing-image">
             <img src={image} alt="Kartik Kumawat" />
