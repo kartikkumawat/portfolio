@@ -316,7 +316,7 @@ export default function Home() {
         {/* Footer Section */}
         <footer className="footer">
           <div className="footer-content">
-            <p>© 2024 Kartik Kumawat. All Rights Reserved.</p>
+            <p>© 2025 Kartik Kumawat.</p>
             <div className="social-icons">
               <a
                 href="https://www.linkedin.com/in/kartik-kumawat-developer"
